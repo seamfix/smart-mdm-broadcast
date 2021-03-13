@@ -1,4 +1,4 @@
-package com.seamfix.testdeviceowner
+package com.seamfix.smartmdmbroadcaster
 import android.R
 import android.app.*
 import android.content.Intent

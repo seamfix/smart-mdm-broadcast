@@ -1,12 +1,9 @@
-package com.seamfix.testdeviceowner
+package com.seamfix.smartmdmbroadcaster
 
 import android.app.admin.DevicePolicyManager
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
-import android.provider.SyncStateContract
-import android.util.Log
-import android.widget.Toast
 import androidx.annotation.Keep
 
 const val MDM_ACTION = "com.seamfix.DEVICE_IDENTIFIERS"
