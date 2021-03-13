@@ -1,0 +1,3 @@
+include ':app:smartmdmbroadcaster'
+include ':app'
+rootProject.name = "SmartMDMBroadcast"
